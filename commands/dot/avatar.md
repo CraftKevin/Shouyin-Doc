@@ -2,7 +2,7 @@
 
 ## 简介
 
-获取所AT用户的QQ头像
+获取所_at_用户的QQ头像
 
 ```
 .avatar@Stapx_Steve
