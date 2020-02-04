@@ -16,7 +16,8 @@
 
 目前的贡献者有：
 
-* Stapx Steve
+* [Stapx Steve](https://github.com/Stapxs)
+* [sjfhsjfh](https://github.com/sjfhsjfh)
 
 ### 关于
 
