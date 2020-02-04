@@ -15,7 +15,7 @@
 * roomStatus\(rs\)  - 用于生成房间快照 
 
 ```
-/Screep rs shard3/W25S11
+/screep rs shard3/W25S11
 ```
 
 > 参数：
