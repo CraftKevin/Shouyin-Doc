@@ -3,6 +3,7 @@
 ## Main
 
 * [Index](README.md)
+  * [The entry structure](the-entry-structure.md)
 
 ## Commands
 

@@ -4,17 +4,17 @@
 
 一个标准的 [SPFG](https://spfg.ustc-zzzz.net/) 通讯协议指令
 
-返回一条问候消息 \${user_id}! ，或者是来自动态软链接的内容
+返回一条问候消息 ${user\_id}! ，或者是来自动态软链接的内容
 
 ~~（经常被 SS 用于查看首尹有没有宕机）~~
 
-```QQ_message
-ck！
-or: ck! (different)
+```QQ\_message
+ck!
 ```
 
-> 无参数
+> 无参数（具体用法请参考 [SPFG](https://spfg.ustc-zzzz.net/) 通讯协议指令）
 
 ## 权限
 
 普通用户组及以上
+

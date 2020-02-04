@@ -12,19 +12,22 @@
 
 ## 二级指令
 
-### roomstatus(rs)  - 用于生成房间快照
+### roomstatus\(rs\)  - 用于生成房间快照
 
 #### 用法
 
-```QQ_message
-/screeps roomstatus [shardName] [roomName]
-equal to: /screeps rs [shardName] [roomName]
+```QQ\_message
+/screeps roomstatus [shardName]/[roomName]
+```
+
+```
+/screeps rs [shardName]/[roomName]
 ```
 
 #### 实例
 
-```QQ_message
-/screep rs shard3 W25S11
+```QQ\_message
+/screep rs shard3/W25S11
 ```
 
 #### 参数
@@ -36,14 +39,14 @@ equal to: /screeps rs [shardName] [roomName]
 
 #### 用法
 
-```QQ_message
-/screeps info [shardName] [roomName] [ObjectId]/[ObjectType]
+```QQ\_message
+/screeps info [shardName]/[roomName] [ObjectId](or[ObjectType])
 ```
 
 #### 实例
 
-```QQ_message
-/screeps info shard3 W25S11 storage
+```QQ\_message
+/screeps info shard3/W25S11 storage
 ```
 
 #### 参数
@@ -54,6 +57,8 @@ equal to: /screeps rs [shardName] [roomName]
 > 支持的类型：
 >
 > ```JavaScript
-> ['storage','terminal','factory','controller','mineral',
-> 'powerspawn','nuker','observer','powerbank','deposit']
+> ['storage','terminal','factory','controller','mineral','powerspawn','nuker','observer','powerbank','deposit']
 > ```
+
+
+

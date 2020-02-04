@@ -9,6 +9,16 @@
 
 欢迎Bot用户帮助我补充指令使用方法
 
+在编辑文档时，请注意：
+
+* 参阅[ Index](#shouyin-doc) 下的 [The entry structure](/the-entry-structure.md) 页面有助于掌握文档格式以减少修改频率
+* 请将目录按字典顺序进行排序
+
+目前的贡献者有：
+
+* [Stapx Steve](https://github.com/Stapxs)
+* [sjfhsjfh](https://github.com/sjfhsjfh)
+
 ### 关于
 
 使用[Gitbook](https://github.com/GitbookIO/gitbook-cli)生成
