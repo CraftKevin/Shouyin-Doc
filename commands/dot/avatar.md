@@ -8,9 +8,9 @@
 
 普通用户组及以上
 
-## 用法
+### 用法
 
-```QQ_message
+```QQ\_message
 .avatar@user
 ```
 
@@ -20,6 +20,9 @@
 
 ## 举例
 
-```QQ_message
+```QQ\_message
 .avatar@Stapx_Steve
 ```
+
+
+

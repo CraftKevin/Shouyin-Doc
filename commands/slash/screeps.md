@@ -18,7 +18,10 @@
 
 ```QQ\_message
 /screeps roomstatus [shardName]/[roomName]
-equal to: /screeps rs [shardName]/[roomName]
+```
+
+```
+/screeps rs [shardName]/[roomName]
 ```
 
 #### 实例
