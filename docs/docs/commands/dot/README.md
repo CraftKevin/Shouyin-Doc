@@ -14,13 +14,10 @@
 
 **举例：**
 
-```
+```QQ_message
 > .avatar@Tracer
 ```
 
 **返回：**
 
 > Tracer-Avatar.png
-
-
-
