@@ -86,7 +86,10 @@
 
 ```QQ\_message
 /image gaussianblur [Blur Radius]
-equal to: /img gs [Blur Radius]
+```
+
+```
+/img gs [Blur Radius]
 ```
 
 #### 实例
