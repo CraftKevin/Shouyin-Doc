@@ -12,29 +12,46 @@
 
 ## 二级指令
 
-* roomStatus\(rs\)  - 用于生成房间快照 
+### roomStatus(rs)  - 用于生成房间快照
 
-```
-/screep rs shard3/W25S11
+使用方法：
+
+``` QQ_message
+/screeps rs [shardName] [roomName]
 ```
 
-> 参数：
+举例：
+
+``` QQ_message
+/screep rs shard3 W25S11
+```
+
+参数：
+> shard名
+> 房号
+
+### info  - 用于获取某一Object的信息
+
+使用方法：
+
+``` QQ_message
+/screeps info [shardName] [roomName] [ObjectId]/[ObjectType]
+```
+
+举例：
+
+``` QQ_message
+/screeps info shard3 W25S11 storage
+```
+
+参数：
 >
-> 1. shard名/房号
-
-* info  - 用于获取某一Object的信息
-
-```
-/screeps info shard3/W25S11 storage
-```
-
-> 参数：
->
-> 1. shard名/房号
-> 2. ObjectID / Object类型（忽视大小写） 
->    1. 支持的类型：
->       `['storage','terminal','factory','controller','mineral',`
->       `'powerspawn','nuker','observer','powerbank','deposit']`
-
-
-
+> shard名
+> 房号
+> ObjectID / Object类型（忽视大小写）
+>> 支持的类型：
+>>
+>> ``` JavaScript
+>> ['storage','terminal','factory','controller','mineral','powerspawn',
+>> 'nuker','observer','powerbank','deposit']
+>> ```

@@ -4,7 +4,7 @@
 
 获取所_at_用户的QQ头像
 
-```
+``` QQ_message
 .avatar@Stapx_Steve
 ```
 
@@ -15,6 +15,3 @@
 ## 权限
 
 普通用户组及以上
-
-
-
