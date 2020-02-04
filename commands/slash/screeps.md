@@ -14,38 +14,39 @@
 
 ### roomStatus(rs)  - 用于生成房间快照
 
-使用方法：
+#### 使用方法
 
 ``` QQ_message
 /screeps rs [shardName] [roomName]
 ```
 
-举例：
+#### 举例
 
 ``` QQ_message
 /screep rs shard3 W25S11
 ```
 
-参数：
+#### 参数
+
 > shard名
 > 房号
 
 ### info  - 用于获取某一Object的信息
 
-使用方法：
+#### 使用方法
 
 ``` QQ_message
 /screeps info [shardName] [roomName] [ObjectId]/[ObjectType]
 ```
 
-举例：
+#### 举例
 
 ``` QQ_message
 /screeps info shard3 W25S11 storage
 ```
 
-参数：
->
+#### 参数
+
 > shard名
 > 房号
 > ObjectID / Object类型（忽视大小写）
