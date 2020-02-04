@@ -38,25 +38,73 @@
 
 ---
 
+# `"[command]"` 指令
 
+## 简介
+
+简介
+
+## 权限
+
+权限
+
+## 二级指令
+
+### `"[child command]"`  - 简介
+
+#### 用法
+
+```QQ\_message
+[fistUsed]
+```
+
+```
+[secUsed]
+```
+
+#### 实例
+
+```QQ\_message
+[illustrate]
+```
+
+#### 参数
+
+1. \[fistparameter\]
+   > \[note\]
+2. \[secparameter\]
+   > \[note\]
+
+### `"[child command]"`  - 简介
+
+#### 用法
+
+```QQ\_message
+[fistUsed]
+```
+
+```
+[secUsed]
+```
+
+#### 实例
+
+```QQ\_message
+[illustrate]
+```
+
+#### 参数
+
+1. \[fistparameter\]
+   > \[note\]
+2. \[secparameter\]
+   > \[note\]
 
 ---
 
 ### 无子指令的有参条目
 
----
-
-
-
----
-
 ### 无子指令的无参条目
-
----
-
-
-
----
 
 
 
