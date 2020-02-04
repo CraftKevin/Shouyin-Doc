@@ -14,4 +14,3 @@
   * [.jrrp](commands/dot/jrrp.md)
 * [Others](commands/other/README.md)
   * [ck!](commands/other/SPFG.md)
-
