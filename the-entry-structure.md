@@ -7,8 +7,9 @@
 更改记录如下：
 
 * 初稿：CraftKevin
-* \#1 ：Stapxs
-* \#2 ：sjfhsjfh
+* #1 ：Stapxs
+* #2 ：sjfhsjfh
+* #3 ：sjfhsjfh
 
 ## 主分类
 
@@ -22,13 +23,13 @@
 
 **举例：**
 
-```QQ\_message
+```QQ_message
 > [Example content]
 ```
 
 **返回：**
 
-> \[The results\]
+> [The results]
 
 ---
 
@@ -54,57 +55,54 @@
 
 #### 用法
 
-```QQ\_message
+```QQ_message
 [fistUsed]
 ```
 
-```
+```QQ_message
 [secUsed]
 ```
 
 #### 实例
 
-```QQ\_message
+```QQ_message
 [illustrate]
 ```
 
 #### 参数
 
-1. \[fistparameter\]
-   > \[note\]
-2. \[secparameter\]
-   > \[note\]
+1. [fistparameter]
+   > [note]
+2. [secparameter]
+   > [note]
 
 ### `"[child command]"`  - 简介
 
 #### 用法
 
-```QQ\_message
+```QQ_message
 [fistUsed]
 ```
 
-```
+```QQ_message
 [secUsed]
 ```
 
 #### 实例
 
-```QQ\_message
+```QQ_message
 [illustrate]
 ```
 
 #### 参数
 
-1. \[fistparameter\]
-   > \[note\]
-2. \[secparameter\]
-   > \[note\]
+1. [fistparameter]
+   > [note]
+2. [secparameter]
+   > [note]
 
 ---
 
 ### 无子指令的有参条目
 
 ### 无子指令的无参条目
-
-
-
