@@ -76,6 +76,7 @@
 
 ```QQ_message
 /image gaussianblur 60
+equal to: /img gs 60
 ```
 
 #### 参数
