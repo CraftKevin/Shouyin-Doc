@@ -58,6 +58,14 @@
 
 ### resize - 返回规定尺寸修改后的图片
 
+#### 用法
+
+```QQ\_message
+/image resize [size]
+```
+
+#### 实例
+
 ```QQ\_message
 /image resize 60*60
 ```
@@ -74,9 +82,17 @@
 
 ### gaussianblur\(gs\) - 对图片进行高斯模糊
 
+#### 用法
+
+```QQ\_message
+/image gaussianblur [Blur Radius]
+equal to: /img gs [Blur Radius]
+```
+
+#### 实例
+
 ```QQ\_message
 /image gaussianblur 60
-equal to: /img gs 60
 ```
 
 #### 参数
