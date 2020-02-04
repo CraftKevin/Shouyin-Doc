@@ -17,14 +17,14 @@
 #### 用法
 
 ```QQ\_message
-/screeps roomstatus [shardName] [roomName]
-equal to: /screeps rs [shardName] [roomName]
+/screeps roomstatus [shardName]/[roomName]
+equal to: /screeps rs [shardName]/[roomName]
 ```
 
 #### 实例
 
 ```QQ\_message
-/screep rs shard3 W25S11
+/screep rs shard3/W25S11
 ```
 
 #### 参数
@@ -37,13 +37,13 @@ equal to: /screeps rs [shardName] [roomName]
 #### 用法
 
 ```QQ\_message
-/screeps info [shardName] [roomName] [ObjectId]/[ObjectType]
+/screeps info [shardName]/[roomName] [ObjectId](or[ObjectType])
 ```
 
 #### 实例
 
 ```QQ\_message
-/screeps info shard3 W25S11 storage
+/screeps info shard3/W25S11 storage
 ```
 
 #### 参数

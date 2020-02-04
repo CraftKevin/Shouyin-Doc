@@ -16,7 +16,7 @@
 
 ### bin  - 将图片二值化（黑白化）
 
-```QQ_message
+```QQ\_message
 /image bin
 ```
 
@@ -30,7 +30,7 @@
 
 ### exif - 获取图片的EXIF信息
 
-```QQ_message
+```QQ\_message
 /image exif
 ```
 
@@ -44,7 +44,7 @@
 
 ### size - 获取图片尺寸（单位像素）
 
-```QQ_message
+```QQ\_message
 /image size
 ```
 
@@ -58,7 +58,7 @@
 
 ### resize - 返回规定尺寸修改后的图片
 
-```QQ_message
+```QQ\_message
 /image resize 60*60
 ```
 
@@ -72,9 +72,9 @@
 
 1. 待处理的图片
 
-### gaussianblur(gs) - 对图片进行高斯模糊
+### gaussianblur\(gs\) - 对图片进行高斯模糊
 
-```QQ_message
+```QQ\_message
 /image gaussianblur 60
 equal to: /img gs 60
 ```
@@ -86,3 +86,6 @@ equal to: /img gs 60
 #### 附加消息
 
 1. 待处理的图片
+
+
+
