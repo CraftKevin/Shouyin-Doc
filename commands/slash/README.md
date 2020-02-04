@@ -12,13 +12,10 @@
 
 **举例：**
 
-```
+```QQ_message
 > /screeps rs shard3/W25S11
 ```
 
 **返回：**
 
 > RoomSnapshot.png
-
-
-
