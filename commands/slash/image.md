@@ -14,9 +14,9 @@
 
 ## 二级指令
 
-### bin  - 将图片二值化（黑白化）
+### bin - 将图片二值化（黑白化）
 
-```QQ\_message
+```QQ_message
 /image bin
 ```
 
@@ -28,9 +28,9 @@
 
 1. 待处理的图片
 
-### exif - 获取图片的EXIF信息
+### exif - 获取图片的 EXIF 信息
 
-```QQ\_message
+```QQ_message
 /image exif
 ```
 
@@ -44,7 +44,7 @@
 
 ### size - 获取图片尺寸（单位像素）
 
-```QQ\_message
+```QQ_message
 /image size
 ```
 
@@ -60,13 +60,13 @@
 
 #### 用法
 
-```QQ\_message
+```QQ_message
 /image resize [size]
 ```
 
 #### 实例
 
-```QQ\_message
+```QQ_message
 /image resize 60*60
 ```
 
@@ -84,17 +84,17 @@
 
 #### 用法
 
-```QQ\_message
+```QQ_message
 /image gaussianblur [Blur Radius]
 ```
 
-```
+```QQ_message
 /img gs [Blur Radius]
 ```
 
 #### 实例
 
-```QQ\_message
+```QQ_message
 /image gaussianblur 60
 ```
 
@@ -105,6 +105,3 @@
 #### 附加消息
 
 1. 待处理的图片
-
-
-
