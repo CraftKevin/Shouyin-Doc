@@ -23,6 +23,3 @@
 ```QQ\_message
 .avatar@Stapx_Steve
 ```
-
-
-

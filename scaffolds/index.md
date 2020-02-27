@@ -17,5 +17,5 @@
 ## 条目
 
 - 有多个子指令的条目的 [模板](./command.md)
-- 无子指令的有参条目
+- 无子指令的有参条目的 [模板](./no_child_command.md)
 - 无子指令的无参条目的 [模板](./no_param_command.md)
