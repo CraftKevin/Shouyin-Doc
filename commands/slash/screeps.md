@@ -46,7 +46,7 @@
 #### 实例
 
 ```QQ_message
-/screeps info shard3/W25S11 storage
+/screeps info shard3 W25S11 storage
 ```
 
 #### 参数
