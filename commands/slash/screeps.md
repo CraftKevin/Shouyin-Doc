@@ -51,8 +51,9 @@
 
 #### 参数
 
-1. shard 名/房号
-2. ObjectID / Object 类型（忽视大小写）
+1. shard 名
+2. 房号
+3. ObjectID / Object 类型（忽视大小写）
 
 > 支持的类型：
 >
