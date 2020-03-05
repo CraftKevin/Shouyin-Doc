@@ -2,7 +2,8 @@
 
 ## 简介
 
-[原 api](https://hitokoto.cn/)
+随机显示一条一言。
+[调用API](https://hitokoto.cn/)
 
 ## 别称
 

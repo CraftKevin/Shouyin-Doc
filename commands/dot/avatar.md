@@ -8,7 +8,7 @@
 
 普通用户组及以上
 
-### 用法
+## 用法
 
 ```QQ\_message
 .avatar@user
