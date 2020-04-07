@@ -12,7 +12,7 @@
 
 需要注意的是，_at_一般与指令直接相连
 
-**举例：**
+## 举例
 
 ```QQ_message
 > .avatar@Tracer
