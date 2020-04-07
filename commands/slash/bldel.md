@@ -6,7 +6,7 @@
 
 ## 权限
 
-shouyin 主人
+Shouyin 的主人
 
 ## 用法
 
@@ -14,12 +14,20 @@ shouyin 主人
 /bldel@user
 ```
 
+或者
+
+```QQ_message
+/bldel
+```
+
 > 参数：
 >
 > 1. 标准QQ at 消息
+>
+> 无参数时操作对象为群组
 
 ## 举例
 
 ```QQ_message
-/bldel@章鱼哥
+/bldel@sjfhsjfh
 ```
