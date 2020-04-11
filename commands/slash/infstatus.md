@@ -2,7 +2,7 @@
 
 ## 简介
 
-用于显示 [DHW Inf](./../../intros/DHWInf.md) 的服务器状态
+用于显示 [DHW Inf](./../../intros/DHW-Inf.md) 的服务器状态
 包括：
 
 > 1. 版本信息

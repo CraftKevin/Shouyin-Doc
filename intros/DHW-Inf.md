@@ -1,5 +1,7 @@
 # 关于 DHW Inf
 
+![DHW Inf](.\..\img\DHW-Inf.jpg)
+
 SS你来写，我放两个视频链接就好了。
 
 [【宣传片】DHW Infinity原版非红石服务器](https://www.bilibili.com/video/BV1nJ411z7T9)
