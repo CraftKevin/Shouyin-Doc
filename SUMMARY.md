@@ -9,6 +9,8 @@
 
 <!-- 请按字母排序目录 -->
 
+- [Colon Commands](commands/colon/README.md)
+  - [music:](commands/colon/music.md)
 - [Slash Commands](commands/slash/README.md)
   - [/bladd](commands/slash/bladd.md)
   - [/bldel](commands/slash/bldel.md)
