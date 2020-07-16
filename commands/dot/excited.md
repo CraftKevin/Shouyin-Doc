@@ -4,7 +4,7 @@
 
 合成一个目标 QQ 的 Excited 图片，例如
 
-![Excited](./../img/excited.png)
+![Excited](./../../img/excited.png)
 
 ## 权限
 

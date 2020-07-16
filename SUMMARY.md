@@ -3,6 +3,7 @@
 ## Main
 
 - [Index](README.md)
+  - [intros](intros/DHW-Inf.md)
   - [Scaffolds](scaffolds/index.md)
 
 ## Commands
