@@ -4,7 +4,7 @@
 
 合成一个目标 QQ 的 Excited 图片，例如
 
-![Excited](https://github.com/Stapxs/SS-Download-Lib/raw/master/Excited.png)
+![Excited](https://github.com/CraftKevin/Shouyin-Doc/raw/master/img/excited.png)
 
 ## 权限
 
@@ -13,7 +13,7 @@
 ## 用法
 
 ```QQ\_message
-.avatar@user
+.excited@user
 ```
 
 > 参数：
@@ -23,5 +23,5 @@
 ## 举例
 
 ```QQ\_message
-.avatar@159357890
+.excited@159357890
 ```
