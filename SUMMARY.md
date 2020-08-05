@@ -26,6 +26,7 @@
   - [.hitokoto](commands/dot/hitokoto.md)
   - [.jrrp](commands/dot/jrrp.md)
   - [.nmsl](commands/dot/nmsl.md)
+  - [.notice](commands/dot/notice.md)
 - [Others](commands/other/README.md)
   - [打游戏](commands/other/游戏.md)
   - [ck!](commands/other/ck!.md)
